@@ -1,0 +1,19 @@
+body{
+    display: flex;
+}
+table{
+    min-width: 150px;
+}
+td{
+    background-color: grey;
+    color: white;
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 6px 15px;
+}
+button:hover{
+    color: blue;
+}
